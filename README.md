@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dr. Hong Xie
+# 👋 Hi, I'm Dr. Hongyuan Xie
 
 **PhD (Dr.) in Computer Vision & Medical Imaging**
 
