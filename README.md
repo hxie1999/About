@@ -9,16 +9,14 @@ I work on **robust, explainable, and deployable healthcare AI**, integrating **m
 ---
 
 ## 🔬 Research Areas
-
-* Skin lesion analysis (classification & segmentation)
-* Wearable sensor intelligence (physiological time-series)
-* Multimodal AI (image + sensor + metadata)
-* Robust & lightweight models for real-world deployment
+- Skin lesion analysis (classification & segmentation)
+- Wearable sensor intelligence (physiological time-series)
+- Multimodal AI (image + sensor + metadata)
+- Robust & lightweight models for real-world deployment
 
 ---
 
 ## 🛠️ Stack
-
 Python • PyTorch • Computer Vision • Time-Series • Multimodal AI
 
 ---
